@@ -19,8 +19,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-https://leetcode-stats-six.vercel.app/api?username=SergioKF
-https://github.com/SergioKF/github-readme
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SergioKF)](https://github.com/SergioKF/github-readme)
 
 ### Badges
 
